@@ -1,0 +1,25 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/eugenekhv27/node-text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/eugenekhv27/node-text/issues"
+  },
+  "homepage": "https://gitlab.com/eugenekhv27/node-text#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forever": "^3.0.4"
+  }
+}
